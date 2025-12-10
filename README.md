@@ -65,6 +65,8 @@ npm run build
 ---
 
 ## 🖼️ Preview
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d1158bb5-17e8-41a4-badd-b0e00b3fea78" />
+
 ---
 
 ## 🤝 Contributing
